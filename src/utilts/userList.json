@@ -1,0 +1,95 @@
+[
+    {
+        "id": 0,
+        "name": "Deneme",
+        "photo": "https://randomuser.me/api/portraits/men/3.jpg",
+        "stories": [
+            "https://images.unsplash.com/photo-1494783367193-149034c05e8f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a98c0f9a6c602e964e6533de413d59ba&auto=format&fit=crop&w=1350&q=80",
+            "https://cdn.yemek.com/mnresize/1250/833/uploads/2021/12/1-kg-undan-5-somun-ekmek-one-cikan.jpg"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "İsmailEmreYörük",
+        "photo": "https://i.imgur.com/JwC0n44.png",
+        "stories": [
+            "https://pbs.twimg.com/media/FW-XkYbXwAEWoh4?format=png&name=small",
+            "https://images.unsplash.com/photo-1554080353-a576cf803bda?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cGhvdG98ZW58MHx8MHx8&w=1000&q=80"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "CagatayFidan",
+        "photo": "https://pbs.twimg.com/profile_images/1396133244941312001/Qe-W4ppx_400x400.jpg",
+        "stories": [
+            "https://pbs.twimg.com/media/FW-beUZWAAArlba?format=jpg&name=small",
+            "https://pbs.twimg.com/media/FWsXaF4XkAIz60T?format=jpg&name=medium"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "SinanElmalı",
+        "photo": "https://pps.whatsapp.net/v/t61.24694-24/211027129_1064200810650557_4096316970901078523_n.jpg?ccb=11-4&oh=01_AVxU8h8KdWGfC8etzdQT4CxwBgmpVTGXg2gYt7j1STkGbw&oe=62D37AB0",
+        "stories": [
+            "https://picsum.photos/200/300",
+            "https://picsum.photos/200/300?grayscale"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "MustafaBaşel",
+        "photo": "https://pbs.twimg.com/profile_images/1536669712360284162/bDQr90WM_400x400.jpg",
+        "stories": [
+            "https://picsum.photos/seed/picsum/200/300",
+            "https://picsum.photos/id/237/200/300"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "ŞükrüDev",
+        "photo": "https://lh3.googleusercontent.com/JgJPqyejzsRFuNODD4BDKK6UoW3lwP1K4hCzlWzK49OvdMRFA2ZJnkVOKlkaSbDyHCeT9fGRnkzYrqUeWEv8mMYIwY0TeB6RSxLfnwU-XYwMNwfuZbolg7L6ByxcnRVHIqtJZCTkzovFbT6VgC_wm0MThYL_Dj3szfjUZSQvUGImJBIOuZKDQulEYH0TCiXe7iUnDZN1PQm4UaxSc0iOfHO3gJ41_F9hDGS8bFvqSBQk66CWzOsJkr_T_QKTjzV8gTpzlkbdaiRrNpJ9mpS4erPZLGNg68cRoLw1Truu8FRtzUZL_Zpsv2hGa_-e50EFN6AxD9nHj95Mdu5uon9yq7-Ruwt7lTao8C78rppLgN6jTz1ptHLdcaFPS7JOPqYlzQcZwkBjHkKm1Kz2nTKM751eybwedthBK1xExEdJUOJpqFK6jCo4hJ8o8OMR3EM6Rc9H_LpTplO-FvYuIcRZaXrfgXEB-sOkgAVQBj7b9ncR62_EcYFrtBMuWFIkXF3-zQjV3zDHxU60jRUC04VPFUlrOXjyHzJYq6FYkv2JbLiXEVq99unwBj29G2qVXuw9grfnpEHv5qCqEZdDjFf7-Rg9RlUGcUzF6KQCr1eL0WJLpD-IZBiB8LvsUp0oxM2nza_fLp-Sh3NNU67tr__fBMdXFhOhY7kY8dZ-yR41q9EneujCRLKcEaEH3ziDXnPXbBNTsCqufgpJFcX1wh1LQTLFwy24Gxr2I3Mi2HvJzDklSb9wO8zU-Br_2L9t_rLZdLmx0zWRpNHPbntpuvYG2YYfWwejfqx1=w706-h941-no?authuser=0",
+        "stories": []
+    },
+    {
+        "id": 6,
+        "name": "AliAsi",
+        "photo": "https://pps.whatsapp.net/v/t61.24694-24/68364381_2794935573858603_7893591608724029440_n.jpg?ccb=11-4&oh=01_AVy8km7tzEKLjQ8FN3vquZfaJHOOY5UKNfhQIQ15UkHaRQ&oe=62C9211B",
+        "stories": []
+    },
+    {
+        "id": 7,
+        "name": "SerdarDev",
+        "photo": "https://randomuser.me/api/portraits/men/11.jpg",
+        "stories": []
+    },
+    {
+        "id": 8,
+        "name": "Serdar Dev",
+        "photo": "https://randomuser.me/api/portraits/men/12.jpg",
+        "stories": []
+    },
+    {
+        "id": 9,
+        "name": "Serdar Dev",
+        "photo": "https://randomuser.me/api/portraits/men/13.jpg",
+        "stories": []
+    },
+    {
+        "id": 10,
+        "name": "Serdar Dev",
+        "photo": "https://randomuser.me/api/portraits/men/14.jpg",
+        "stories": []
+    },
+    {
+        "id": 11,
+        "name": "Serdar Dev",
+        "photo": "https://randomuser.me/api/portraits/men/15.jpg",
+        "stories": []
+    },
+    {
+        "id": 12,
+        "name": "Serdar Dev",
+        "photo": "https://randomuser.me/api/portraits/men/16.jpg",
+        "stories": []
+    }
+]
